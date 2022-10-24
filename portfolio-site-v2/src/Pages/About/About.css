@@ -1,0 +1,16 @@
+.about {
+    display: flex;
+    justify-content: center;
+}
+
+.about-container {
+    margin: 100px;
+    width: 50%;
+}
+
+@media (max-width: 900px) {
+    .about-container {
+        margin: 80px 10px 20px 20px;
+        width: 100%;
+    }
+}

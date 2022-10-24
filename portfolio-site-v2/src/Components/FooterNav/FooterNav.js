@@ -21,19 +21,24 @@ const FooterNav = () => {
                     ))}
                 </div>
                 <div className="footer-socials">
-                    <a className="footer-social-icon" href="#">
-                        <FaYoutube />
-                    </a>
-                    <a className="footer-social-icon" href="#">
+                    <a
+                        className="footer-social-icon"
+                        href="https://github.com/TravisCottrell"
+                        target="_blank"
+                        rel="noreferrer noopener"
+                    >
                         <FaGithub />
                     </a>
-                    <a className="footer-social-icon" href="#">
+                    <a
+                        className="footer-social-icon"
+                        href="https://www.linkedin.com/in/travis-cottrell-131636212/"
+                        target="_blank"
+                        rel="noreferrer noopener"
+                    >
                         <FaLinkedin />
                     </a>
                 </div>
             </div>
-            <div className="footer-logo-container">{Logo}</div>
-            <h6>Copyright</h6>
         </div>
     );
 };

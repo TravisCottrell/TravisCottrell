@@ -5,6 +5,7 @@ import PortfolioPage from "./Pages/PortfolioPage/PortfolioPage";
 import "./App.css";
 import Navbar from "./Components/Navbar/Navbar";
 import FooterNav from "./Components/FooterNav/FooterNav";
+import About from "./Pages/About/About";
 
 function App() {
     return (
@@ -18,6 +19,7 @@ function App() {
                         exact
                         element={<PortfolioPage />}
                     ></Route>
+                    <Route path="/about" element={<About />}></Route>
                 </Routes>
                 <FooterNav />
             </BrowserRouter>

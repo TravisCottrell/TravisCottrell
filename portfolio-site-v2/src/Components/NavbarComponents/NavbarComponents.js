@@ -23,12 +23,4 @@ export const navItems = [
         name: "Portfolio",
         id: "portfolio",
     },
-    {
-        name: "FAQ's",
-        id: "faq",
-    },
-    {
-        name: "Appointment",
-        id: "appointment",
-    },
 ];

@@ -1,5 +1,5 @@
 import React from "react";
-import Portfolio from "../../Components/section 1/Portfolio";
+import Portfolio from "../../Components/Project Section/Portfolio";
 
 const Home = () => {
     return (

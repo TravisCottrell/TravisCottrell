@@ -49,14 +49,29 @@ const Navbar = () => {
     return (
         <div className="navbar">
             <div className="nav-icon-container">
-                <FaYoutube className="nav-icon" />
-                <FaGithub className="nav-icon" />
-                <FaLinkedin className="nav-icon" />
-                {socialIcons.map((icon) => {
+                <a
+                    className="nav-icon"
+                    href="https://github.com/TravisCottrell"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                >
+                    <FaGithub />
+                </a>
+
+                <a
+                    className="nav-icon"
+                    href="https://www.linkedin.com/in/travis-cottrell-131636212/"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                >
+                    <FaLinkedin />
+                </a>
+
+                {/* {socialIcons.map((icon) => {
                     <a className="nav-icon" href="#">
                         {icon}
                     </a>;
-                })}
+                })} */}
             </div>
             <div className="logo-container">{Logo}</div>
             {hamburger}

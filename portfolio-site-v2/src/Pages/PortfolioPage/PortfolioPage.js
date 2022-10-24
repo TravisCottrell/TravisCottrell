@@ -1,5 +1,5 @@
 import React from "react";
-import PortfolioProjects from "../../Components/section 1/PortfolioCards/PortfolioProjects";
+import PortfolioProjects from "../../Components/Project Section/PortfolioCards/PortfolioProjects";
 import "./PortfolioPage.css";
 const PortfolioPage = () => {
     return (
