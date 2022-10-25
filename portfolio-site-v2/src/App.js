@@ -6,6 +6,7 @@ import "./App.css";
 import Navbar from "./Components/Navbar/Navbar";
 import FooterNav from "./Components/FooterNav/FooterNav";
 import About from "./Pages/About/About";
+import ProjectPage from "./Pages/ProjectPage/ProjectPage";
 
 function App() {
     return (
@@ -18,6 +19,10 @@ function App() {
                         path="/portfolio"
                         exact
                         element={<PortfolioPage />}
+                    ></Route>
+                    <Route
+                        path="/project/:id"
+                        element={<ProjectPage />}
                     ></Route>
                     <Route path="/about" element={<About />}></Route>
                 </Routes>

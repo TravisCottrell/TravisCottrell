@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import {
     Logo,
     navItems,
@@ -15,9 +16,9 @@ const FooterNav = () => {
             <div className="footer-nav-container">
                 <div className="footer-navigation">
                     {navItems.map(({ name, id }) => (
-                        <a className="footer-nav-item" href={id}>
+                        <Link key={id} to={id} className="footer-nav-item">
                             {name}
-                        </a>
+                        </Link>
                     ))}
                 </div>
                 <div className="footer-socials">
