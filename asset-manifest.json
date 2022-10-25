@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TravisCottrell/static/css/main.5b1e0359.css",
+    "main.js": "/TravisCottrell/static/js/main.99a64368.js",
+    "static/media/HomePage.png": "/TravisCottrell/static/media/HomePage.d9394ae7bdd64f031045.png",
+    "static/media/table.png": "/TravisCottrell/static/media/table.6a9afa1b93b13f35d0e9.png",
+    "static/media/Kmeans.png": "/TravisCottrell/static/media/Kmeans.005a1d378f3f8e2e12de.png",
+    "static/media/HMM.png": "/TravisCottrell/static/media/HMM.c3ffe7e6d169c80b00b7.png",
+    "static/media/pathfinding1.png": "/TravisCottrell/static/media/pathfinding1.f358d2fd432ff3203d0a.png",
+    "static/media/pathfinding.png": "/TravisCottrell/static/media/pathfinding.a72ee7b695710b03fbe2.png",
+    "static/media/graph.png": "/TravisCottrell/static/media/graph.f83cb28847e69c36855d.png",
+    "static/media/gen7.png": "/TravisCottrell/static/media/gen7.56f51f2584ffcd7006dd.png",
+    "index.html": "/TravisCottrell/index.html",
+    "main.5b1e0359.css.map": "/TravisCottrell/static/css/main.5b1e0359.css.map",
+    "main.99a64368.js.map": "/TravisCottrell/static/js/main.99a64368.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1e0359.css",
+    "static/js/main.99a64368.js"
+  ]
+}
