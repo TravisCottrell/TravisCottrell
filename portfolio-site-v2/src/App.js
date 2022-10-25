@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home/Home";
 import PortfolioPage from "./Pages/PortfolioPage/PortfolioPage";
 
@@ -10,7 +10,7 @@ import About from "./Pages/About/About";
 function App() {
     return (
         <div className="App">
-            <BrowserRouter>
+            <HashRouter>
                 <Navbar />
                 <Routes>
                     <Route path="/" exact element={<Home />}></Route>
@@ -22,7 +22,7 @@ function App() {
                     <Route path="/about" element={<About />}></Route>
                 </Routes>
                 <FooterNav />
-            </BrowserRouter>
+            </HashRouter>
         </div>
     );
 }
