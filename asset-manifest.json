@@ -1,21 +1,32 @@
 {
   "files": {
-    "main.css": "/TravisCottrell/static/css/main.5b1e0359.css",
-    "main.js": "/TravisCottrell/static/js/main.716d8a89.js",
+    "main.css": "/TravisCottrell/static/css/main.3241fdbc.css",
+    "main.js": "/TravisCottrell/static/js/main.fb5bb0bb.js",
+    "static/media/GifMaker_gif": "/TravisCottrell/static/media/GifMaker_20221025125334816.2181e4ef10f98327f7c4.gif",
     "static/media/HomePage.png": "/TravisCottrell/static/media/HomePage.d9394ae7bdd64f031045.png",
+    "static/media/graph.png": "/TravisCottrell/static/media/graph.f83cb28847e69c36855d.png",
+    "static/media/Home.png": "/TravisCottrell/static/media/Home.e4655f7087a584ba4d29.png",
+    "static/media/Reloading.png": "/TravisCottrell/static/media/Reloading.34ce92196a80e8249869.png",
     "static/media/table.png": "/TravisCottrell/static/media/table.6a9afa1b93b13f35d0e9.png",
-    "static/media/Kmeans.png": "/TravisCottrell/static/media/Kmeans.005a1d378f3f8e2e12de.png",
+    "static/media/ImageFilterPage.png": "/TravisCottrell/static/media/ImageFilterPage.9ac41e25f1275887db0a.png",
+    "static/media/CityPage.png": "/TravisCottrell/static/media/CityPage.2ec4c62cebabba58e3b4.png",
+    "static/media/AdvancedSearch.png": "/TravisCottrell/static/media/AdvancedSearch.be5b959bd82e53bdbb31.png",
+    "static/media/Post_UserList.png": "/TravisCottrell/static/media/Post_UserList.abb7a734a164dd7c34a5.png",
+    "static/media/PostPage.png": "/TravisCottrell/static/media/PostPage.83d27de82c2ae3b40535.png",
+    "static/media/CountryPage.png": "/TravisCottrell/static/media/CountryPage.ae881c3594f17c4eb74d.png",
     "static/media/HMM.png": "/TravisCottrell/static/media/HMM.c3ffe7e6d169c80b00b7.png",
     "static/media/pathfinding1.png": "/TravisCottrell/static/media/pathfinding1.f358d2fd432ff3203d0a.png",
     "static/media/pathfinding.png": "/TravisCottrell/static/media/pathfinding.a72ee7b695710b03fbe2.png",
-    "static/media/graph.png": "/TravisCottrell/static/media/graph.f83cb28847e69c36855d.png",
+    "static/media/gen5.png": "/TravisCottrell/static/media/gen5.e1bf326b864267f048f1.png",
     "static/media/gen7.png": "/TravisCottrell/static/media/gen7.56f51f2584ffcd7006dd.png",
+    "static/media/gen1.png": "/TravisCottrell/static/media/gen1.933c2f5505b9929929f5.png",
+    "static/media/console.png": "/TravisCottrell/static/media/console.ba8a5a9f615546240340.png",
     "index.html": "/TravisCottrell/index.html",
-    "main.5b1e0359.css.map": "/TravisCottrell/static/css/main.5b1e0359.css.map",
-    "main.716d8a89.js.map": "/TravisCottrell/static/js/main.716d8a89.js.map"
+    "main.3241fdbc.css.map": "/TravisCottrell/static/css/main.3241fdbc.css.map",
+    "main.fb5bb0bb.js.map": "/TravisCottrell/static/js/main.fb5bb0bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b1e0359.css",
-    "static/js/main.716d8a89.js"
+    "static/css/main.3241fdbc.css",
+    "static/js/main.fb5bb0bb.js"
   ]
 }
