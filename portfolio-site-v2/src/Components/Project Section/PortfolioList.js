@@ -27,6 +27,8 @@ import project7 from "../../images/LinearRegression_pics/graph.png";
 
 import project8 from "../../images/HMM.png";
 
+import project9 from "../../images/reloadingJS.png";
+
 export const portfolioList = [
     {
         name: "Pathfinding App",
@@ -45,12 +47,19 @@ export const portfolioList = [
         githubLink: "https://github.com/TravisCottrell/AI_car",
     },
     {
-        name: "Reloading Data",
+        name: "Reloading Data Django",
         img: project3_1,
         images: [project3_1, project3_2, project3_3, project3_4],
-        link: "/project",
-        tech: ["Django", "Python", "Javascript", "REST", "Bootstrap"],
+        link: "https://web-production-be9e.up.railway.app/",
+        tech: ["Django", "Python", "Javascript", "REST", "ORM", "Bootstrap"],
         githubLink: "https://github.com/TravisCottrell/reloadingdata",
+    },
+    {
+        name: "Reloading Data JS",
+        img: project9,
+        link: "https://reloadingdatajs.up.railway.app/",
+        tech: ["Express", "React", "Javascript", "REST", "Tailwind", "SQL"],
+        githubLink: "https://github.com/TravisCottrell/ReloadingData_JS",
     },
     {
         name: "Image Search Web app",
